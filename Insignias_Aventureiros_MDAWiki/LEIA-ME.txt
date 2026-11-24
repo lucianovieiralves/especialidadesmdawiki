@@ -1,0 +1,18 @@
+Insígnias de Aventureiros — MDAWiki
+
+55 imagens em 5 categorias.
+
+AM | Artes Manuais | 8 imagens
+AE | Atividades Espirituais | 9 imagens
+AR | Atividades Recreativas | 23 imagens
+EN | Estudos da Natureza | 7 imagens
+HD | Habilidades Domésticas | 8 imagens
+
+Abra indice.csv no Excel ou em outro programa de planilhas.
+O índice usa ponto e vírgula como separador e traz código, nome, categoria,
+dimensões, caminho no ZIP e os links da página e da imagem.
+
+Os arquivos mantêm o formato e as dimensões das imagens publicadas nos
+catálogos de área da MDAWiki, sem ampliação ou conversão.
+Fonte: https://mda.wiki.br/Especialidades/
+Consulta em 24/11/2026.
