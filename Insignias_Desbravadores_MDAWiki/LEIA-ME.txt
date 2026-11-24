@@ -1,0 +1,24 @@
+Insígnias de Desbravadores — MDAWiki
+
+571 imagens em 11 categorias.
+
+AD | ADRA | 9 imagens
+HM | Artes e Habilidades Manuais | 91 imagens
+AA | Atividades Agrícolas | 16 imagens
+AM | Atividades Missionárias e Comunitárias | 59 imagens
+AM-EB | Ensinos Bíblicos | 28 imagens
+AP | Atividades Profissionais | 68 imagens
+AR | Atividades Recreativas | 121 imagens
+CS | Ciência e Saúde | 43 imagens
+EN | Estudos da Natureza | 107 imagens
+HD | Habilidades Domésticas | 13 imagens
+ME | Mestrados | 16 imagens
+
+Abra indice.csv no Excel ou em outro programa de planilhas.
+O índice usa ponto e vírgula como separador e traz código, nome, categoria,
+dimensões, caminho no ZIP e os links da página e da imagem.
+
+Os arquivos mantêm o formato e as dimensões das imagens publicadas nos
+catálogos de área da MDAWiki, sem ampliação ou conversão.
+Fonte: https://mda.wiki.br/Especialidades/
+Consulta em 24/11/2026.
